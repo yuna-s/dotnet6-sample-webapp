@@ -1,0 +1,7 @@
+C:\Users\yunasugimoto\git\csharpapp\MyFirstAzureWebApp\bin\Release\net6.0\publish\MyFirstAzureWebApp.exe
+C:\Users\yunasugimoto\git\csharpapp\MyFirstAzureWebApp\bin\Release\net6.0\publish\appsettings.Development.json
+C:\Users\yunasugimoto\git\csharpapp\MyFirstAzureWebApp\bin\Release\net6.0\publish\appsettings.json
+C:\Users\yunasugimoto\git\csharpapp\MyFirstAzureWebApp\bin\Release\net6.0\publish\MyFirstAzureWebApp.dll
+C:\Users\yunasugimoto\git\csharpapp\MyFirstAzureWebApp\bin\Release\net6.0\publish\MyFirstAzureWebApp.deps.json
+C:\Users\yunasugimoto\git\csharpapp\MyFirstAzureWebApp\bin\Release\net6.0\publish\MyFirstAzureWebApp.runtimeconfig.json
+C:\Users\yunasugimoto\git\csharpapp\MyFirstAzureWebApp\bin\Release\net6.0\publish\MyFirstAzureWebApp.pdb
